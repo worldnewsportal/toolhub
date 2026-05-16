@@ -43,7 +43,7 @@ dependencies:
   wakelock_plus: ^1.2.5
   share_plus: ^9.0.0
   url_launcher: ^6.3.0
-  intl: ^0.19.0
+  intl: ^0.20.2
 
   # Ads
   unity_ads_plugin: ^0.3.29
