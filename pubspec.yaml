@@ -46,7 +46,7 @@ dependencies:
   intl: ^0.19.0
 
   # Ads
-  unity_ads_plugin: ^4.0.1
+  unity_ads_plugin: ^3.1.0
 
 dev_dependencies:
   flutter_test:
